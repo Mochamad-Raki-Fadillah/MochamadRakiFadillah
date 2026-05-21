@@ -19,7 +19,7 @@ Proyek ini merupakan implementasi infrastruktur jaringan terintegrasi untuk skal
 ## 🗺️ Network Topology
 Berikut adalah arsitektur topologi jaringan yang dirancang dan diimplementasikan:
 
-![Network Topology](images/topologi_ukk.png)
+![Network Topology](Topologi Jaringan)
 
 ### Network Segmentation & Wireless Addressing Plan
 | Division / SSID | VLAN ID | IP Network | Gateway | Security / Authentication |
