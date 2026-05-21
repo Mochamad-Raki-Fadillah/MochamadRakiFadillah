@@ -26,8 +26,8 @@ Berikut adalah arsitektur topologi jaringan yang dirancang dan diimplementasikan
 | :--- | :--- | :--- | :--- | :--- |
 | **VLAN_Admin**  | VLAN 10 | 192.168.10.0/29 | 192.168.10.1 | Wired / Ringkas |
 | **VLAN_Dept A** | VLAN 20 | 192.168.20.0/27 | 192.168.20.1 | Wired / Ringkas |
-| **VLAN_Dept B** | VLAN 30 | 192.168.20.0/26 | 192.168.30.1 | Wired / Ringkas |
-| **Hotspot**     |     -   | 192.168.30.0/24 | 192.168.30.1 | WPA2-PSK (Password Protected) |
+| **VLAN_Dept B** | VLAN 30 | 192.168.30.0/26 | 192.168.30.1 | Wired / Ringkas |
+| **Hotspot**     |     -   | 192.168.40.0/24 | 192.168.40.1 | WPA2-PSK (Password Protected) |
 
 ---
 
