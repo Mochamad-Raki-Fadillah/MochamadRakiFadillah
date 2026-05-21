@@ -57,5 +57,5 @@ Kondisi operasional jaringan yang berhasil diverifikasi:
 
 ---
 💡 **Contact & Professional Network:**
-- **LinkedIn:** [Nama LinkedIn Kamu](https://linkedin.com/in/username-kamu)
+- **LinkedIn:** [Raki Fadillah](https://www.linkedin.com/in/raki-fadillah-2022ab406/)
 - **Email:** fadillahraki@gmail.com
