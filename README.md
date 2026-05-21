@@ -19,8 +19,7 @@ Proyek ini merupakan implementasi infrastruktur jaringan terintegrasi untuk skal
 ## 🗺️ Network Topology
 Berikut adalah arsitektur topologi jaringan yang dirancang dan diimplementasikan:
 
-![Network Topology](Topologi Jaringan)
-
+![Network Topology](https://github.com/Mochamad-Raki-Fadillah/MochamadRakiFadillah/blob/f16c6f1988765285a92784d9f3722ec8fa73f8a8/Topologi%20Jaringan/Topologi.png)
 ### Network Segmentation & Wireless Addressing Plan
 | Division / SSID | VLAN ID | IP Network | Gateway | Security / Authentication |
 | :--- | :--- | :--- | :--- | :--- |
